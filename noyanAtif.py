@@ -723,7 +723,7 @@ def pilih_super():
 
 """
 	print "\033[1;97m«-----------------\033[1;37mBlack_Tiger\033[1;97m-----------------»"
-	raw_input("\n\033[1;97m[+]\033[1;97mBack")
+	raw_input("\n\033[1;97m[+]\033[1;97mBack") esq
 	menu()
 
 if __name__ == '__main__':
